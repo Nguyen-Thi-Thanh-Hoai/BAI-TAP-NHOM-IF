@@ -6,6 +6,3 @@ elif ten_thang=='thang 4' or ten_thang=='thang 6'or ten_thang=='thang 9' or ten_
 	print('So ngay: 30 ngay')	
 elif ten_thang=='thang 1'or ten_thang=='thang 3'or ten_thang=='thang 5' or ten_thang=='thang 7' or ten_thang=='thang 8'or ten_thang=='thang 10'or ten_thang=='thang 12':
 	print('So ngay: 31 ngay')	
-else:
-	print('Gia tri ban nhap khong hop le') 
-	print('Vui long nhap lai')
