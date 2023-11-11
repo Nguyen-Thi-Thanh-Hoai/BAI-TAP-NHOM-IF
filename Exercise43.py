@@ -1,4 +1,4 @@
-tien=(input("De biet nhan vat xuat hien tren to tien, ban hay nhap ten to tien: "))
+tien=(input("Nhap ten to tien de biet nhan vat xuat hien tren to tien: "))
 if tien=='$1':
     print("George Washington")
 elif tien=='$2':
