@@ -1,4 +1,4 @@
-so_canh=(input("Nhap so canh: "))
+so_canh=int(input("Nhap so canh: "))
 if so_canh==3:
     print("Hinh tam giac")
 elif so_canh==4:
