@@ -1,4 +1,4 @@
-tien=(input("Nhap tien: "))
+tien=(input("De biet nhan vat xuat hien tren to tien, ban hay nhap ten to tien: "))
 if tien=='$1':
     print("George Washington")
 elif tien=='$2':
@@ -14,4 +14,4 @@ elif tien=='$50':
 elif tien=='100 USD':
     print("Benjamin Franklin")
 else: 
-    print("So tien ban nhap khong hop le")
+    print("Ten to tien ban nhap khong hop le")
